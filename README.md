@@ -1,7 +1,4 @@
 
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467_960_720.jpg" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -17,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a blogging site built with React, a website for the Toronto Gay Basketball Association also built with React
+- 🔭 I’m currently working on a blogging site built with React and a website for the Toronto Gay Basketball Association also built with React
 
 - 🌱 I’m currently learning Firebase, React, paired-programming 
 
@@ -40,6 +37,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-noordegraaf-a41786216/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/danimalmidnight'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@dannynoo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'www.danielnoordegraaf.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/danielnoo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
