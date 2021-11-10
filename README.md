@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on a blogging site built with React and a website for the Toronto Gay Basketball Association also built with React
 
-- 🌱 I’m currently learning Firebase, React, paired-programming 
+- 🌱 I’m currently learning Testing with Jest in React and Node 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
