@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on a web app that tracks the accuracy of different weather APIs specifically in Toronto
 
-- 🌱 I’m currently JWT and Angular
+- 🌱 I’m currently learning JWT and Angular
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
