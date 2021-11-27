@@ -14,9 +14,9 @@
 
 
 
-- 🔭 I’m currently working on a blogging site built with React and a website for the Toronto Gay Basketball Association also built with React
+- 🔭 I’m currently working on a web app that tracks the accuracy of different weather APIs specifically in Toronto
 
-- 🌱 I’m currently learning Testing with Jest in React and Node 
+- 🌱 I’m currently JWT and Angular
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
