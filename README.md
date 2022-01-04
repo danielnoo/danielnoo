@@ -9,18 +9,7 @@
 <div size='20px'> Hi! My name is Daniel. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2>About Me</h2>
 
-
-
-
-- 🔭 I’m currently working on a web app that tracks the accuracy of different weather APIs specifically in Toronto
-
-- 🌱 I’m currently learning JWT and Angular
-
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
-
-- 💬 Talk to me about JavaScript, Work Opportunites, Open Source 
 
 
 
